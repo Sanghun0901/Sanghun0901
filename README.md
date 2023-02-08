@@ -13,7 +13,7 @@
      <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white"/><br />
 
 <img src="https://img.shields.io/badge/G Mail-EA4335?style=flat&logo=Gmail&logoColor=white"/><br />
-ps2006cmsd@gmail.com
+ps2006cmsd@gmail.com/
 
 
 <br />[![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=Sanghun0901)](https://solved.ac/Sanghun0901)
