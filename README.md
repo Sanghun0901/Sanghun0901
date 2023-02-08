@@ -2,8 +2,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=400&section=header&text=Hello%20UBB%20Squre&fontSize=90)
 <div align=center>
      
-<img src="https://img.shields.io/badge/0288D1?style=flat&logo=React&logoColor=white"/>
-**Studying**<img src="https://img.shields.io/badge/0288D1?style=flat&logo=React&logoColor=white"/>
+**Studying**
 
      
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=React&logoColor=white"/>
