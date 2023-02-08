@@ -4,7 +4,7 @@
      
 ## Studying
      
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=React&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=React&logoColor=white"/><br />
 <img src="https://img.shields.io/badge/Guthub-181717?style=flat&logo=React&logoColor=white"/>
      
 [![Solved.ac
