@@ -9,7 +9,7 @@
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=React&logoColor=white"/>
 <img src="https://img.shields.io/badge/Guthub-181717?style=flat&logo=React&logoColor=white"/><br /> 
 
-### introduce <br />
+### Introduce <br />
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=React&logoColor=white"/>
 <img src="https://img.shields.io/badge/G Mail-EA4335?style=flat&logo=React&logoColor=white"/>
 
