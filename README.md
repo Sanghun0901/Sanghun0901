@@ -1,5 +1,5 @@
 # UBB-Squre
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text="Hello%20UBB%20Squre"render&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text="Hello%20UBB%20Squre"&fontSize=90)
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/generate_badge?boj=Sanghun0901)](https://solved.ac/Sanghun0901)
